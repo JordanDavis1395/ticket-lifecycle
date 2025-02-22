@@ -103,7 +103,8 @@ As an end-user, create the following ticket
 CFO’s laptop will no longer turn on
 
 As a Help Desk Agent (john), observe the ticket’s properties
-	1. Priority
+  
+  1. Priority
 	
   2. Department
 	
